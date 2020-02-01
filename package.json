@@ -1,0 +1,22 @@
+{
+  "name": "testy_programa",
+  "version": "1.0.0",
+  "description": "Rozwiązanie zadania rekrutacyjnego",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArletaLewandowska/test-programa.git"
+  },
+  "author": "Arleta Lewandowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArletaLewandowska/test-programa/issues"
+  },
+  "homepage": "https://github.com/ArletaLewandowska/test-programa#readme",
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}
